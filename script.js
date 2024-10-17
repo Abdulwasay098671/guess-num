@@ -1,5 +1,5 @@
 
-let generate = Math.floor(Math.random()* 10) + 1;
+let generate = Math.floor(Math.random()* 100000) + 1;
 
  let guess =+ prompt("Enter Any 6 digit num")
 
